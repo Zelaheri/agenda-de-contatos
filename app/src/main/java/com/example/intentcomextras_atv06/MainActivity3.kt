@@ -6,10 +6,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.intentcomextras_atv06.databinding.ActivityMain3Binding
-import com.google.android.material.snackbar.Snackbar
 import java.io.Serializable
 
 class MainActivity3 : AppCompatActivity() {
